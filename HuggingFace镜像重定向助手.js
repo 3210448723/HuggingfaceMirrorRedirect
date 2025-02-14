@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         HuggingFace 镜像重定向助手
-// @namespace    https://github.com/3210448723
+// @namespace    https://github.com/3210448723/HuggingfaceMirrorRedirect
 // @version      1.0
 // @description  中国大陆地区HuggingFace镜像加速解决方案：加速访问 `HuggingFace.co` 资源，自动重定向至国内镜像，支持自定义镜像源、白名单、内容替换等，助你畅享AI模型下载。
 // @author       YJM
