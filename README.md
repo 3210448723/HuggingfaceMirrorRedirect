@@ -19,4 +19,11 @@
 
 ## 设置界面
 
+### 打开插件设置界面
 ![打开插件设置界面](https://github.com/user-attachments/assets/0b50328e-bcef-43f2-a5aa-53b73309c911)
+
+### 功能栏
+![功能栏](https://github.com/user-attachments/assets/ba48aa19-6ced-4c32-8454-16c9e17da1b7)
+
+### 设置栏
+![设置栏](https://github.com/user-attachments/assets/05dec3af-0c01-41d2-a09b-e1772251acd4)
